@@ -28,6 +28,6 @@ This project demonstrates a basic nucleotide sequence analysis using the NCBI BL
 - PDF report with detailed explanation
 - BLAST output screenshot
 
-  ## BLAST Output
+## BLAST Output
 
 ![BLAST Results](Screenshot/blast_results.png)
