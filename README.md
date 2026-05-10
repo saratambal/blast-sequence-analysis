@@ -24,6 +24,10 @@ This project demonstrates a basic nucleotide sequence analysis using the NCBI BL
 - Use of biological databases
 - Basic bioinformatics workflow
 
+  ## BLAST Output
+
+![BLAST Results](screenshot/blast_results.png)
+
 ## Project Files
 - PDF report with detailed explanation
 - BLAST output screenshot
