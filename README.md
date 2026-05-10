@@ -30,4 +30,4 @@ This project demonstrates a basic nucleotide sequence analysis using the NCBI BL
 
   ## BLAST Output
 
-![BLAST Results](screenshot/blast_results.png)
+![BLAST Results](Screenshot/blast_results.png)
